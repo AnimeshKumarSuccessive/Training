@@ -1,6 +1,6 @@
-Find the best times to buy and sell a stock. You have an array for which the ith element is the price of a given stock on day "i". If you are only allowed to 
+'''Find the best times to buy and sell a stock. You have an array for which the ith element is the price of a given stock on day "i". If you are only allowed to 
 buy one share of the stock and sell one 
-share of the stock, make a program to find the best times to buy and sell.
+share of the stock, make a program to find the best times to buy and sell.'''
 
 
 
